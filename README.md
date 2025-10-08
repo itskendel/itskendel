@@ -25,17 +25,14 @@ Aspiring Full-Stack Web Developer | Passionate about building scalable web appli
 
 ## 💻 Projects
 
-### **Student Document Management System** (Pro bono)  
+### **E-commerce Web Application** (Capstone/Thesis)
+Developed a web-based platform using Laravel and Stripe integration for payment processing. Implemented role-based access control for different user permissions.  
+
+### **Student Document Management System** (Intership)  
 Registrar Office web app restricted to registrar users. Built with Laravel, Livewire, Rappasoft Tables for filtering/search, and Tailwind CSS.  
-[Repository Link](https://github.com/ken123/student-docs-system)
 
 ### **MDesserts Shop Web App** (Pro bono)  
-Web-based app for product management and order transactions. Built with Laravel, Tailwind CSS, and Bootstrap.  
-[Repository Link](https://github.com/ken123/mdesserts-shop)
-
-### **E-commerce Web Application**  
-Developed a web-based platform using Laravel and Stripe integration for payment processing. Implemented role-based access control for different user permissions.  
-[Repository Link](https://github.com/ken123/ecommerce-app)
+Web-based app for product management and order transactions. Built with Laravel, Tailwind CSS, and Bootstrap. 
 
 ---
 
