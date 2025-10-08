@@ -1,5 +1,6 @@
-# Magandang Buhay 👋, I'm Ken
+# Magandang Buhay, 
 
+# I'm Ken
 Aspiring Full-Stack Web Developer | Passionate about building scalable web applications and contributing to open-source projects.
 
 ---
