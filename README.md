@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Ken
+# Magandang Buhay 👋, I'm Ken
 
 Aspiring Full-Stack Web Developer | Passionate about building scalable web applications and contributing to open-source projects.
 
@@ -44,9 +44,8 @@ Web-based app for product management and order transactions. Built with Laravel,
 ---
 
 ## 📫 Contact Me
-- [LinkedIn](https://www.linkedin.com/in/ken123/)  
-- [Portfolio](https://ken123.dev)  
-- Email: ken@example.com  
+- [LinkedIn](www.linkedin.com/in/ken-jayson-delantar-7b2572370)  
+- [Portfolio]([https://ken123.dev](https://itskendel.github.io/portfolio/)) 
 
 ---
 
