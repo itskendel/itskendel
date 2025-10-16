@@ -48,7 +48,3 @@ Web-based app for product management and order transactions. Built with Laravel,
 - [LinkedIn](www.linkedin.com/in/ken-jayson-delantar-7b2572370)  
 - [Portfolio](https://ken123.dev](https://itskendel.github.io/portfolio/ ) 
 
----
-
-## ⚡ Fun Fact
-Always experimenting with new libraries, frameworks, and small side projects 🚀
